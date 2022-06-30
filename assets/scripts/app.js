@@ -65,7 +65,7 @@ const Portfolio = (function () {
   function typeAnimation() {
     Typed.new("#writing-text", {
       strings: [
-        "am a Front-End Web Developer.",
+        "am a Full-Stack Web Developer.",
         "love everything about code.",
         "solve problems.",
       ],
